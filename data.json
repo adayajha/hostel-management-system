@@ -1,0 +1,20 @@
+[
+    {
+        "id": "101",
+        "name": "Adaya",
+        "department": "Civil Engineering",
+        "room": "305"
+    },
+    {
+        "id": "102",
+        "name": "shambavi",
+        "department": "ece",
+        "room": null
+    },
+    {
+        "id": "103",
+        "name": "shreya",
+        "department": "civil",
+        "room": "201"
+    }
+]
